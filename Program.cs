@@ -6,7 +6,7 @@ namespace Cse210Starter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World claudio!");
+            Console.WriteLine("Hello World Claudio Parra!");
 
             // Write your code here
         }
